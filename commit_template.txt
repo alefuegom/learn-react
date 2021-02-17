@@ -1,0 +1,13 @@
+# ------------------ COMMIT TEMPLATE ------------------
+# USE THIS TEMPLATE IN ORDER TO MAKE COMMIT
+# FOLLOW THIS INDICATIONS TO WRITE THE TITLE:
+# Use this tags in your commit title:
+# [IMP] For add new files/funcionality 
+# [MOD] For modify current funcionalities
+# [REM] For remove files/funcionality
+# Write in the following line the commit title:
+ 
+# FOLLOW THIS INDICATIONS TO WRITE THE DESCRIPTION:
+# Please, write a complex description of the changes done.
+# Write in the following line the commit description:
+
